@@ -3,3 +3,9 @@
 # Dashboard
 <img width="1534" height="898" alt="Screenshot 2026-08-15 115524" src="https://github.com/user-attachments/assets/a7d839bc-5f9e-47b0-af57-fb6816e07ec8" />
 I am currently getting my "Responsive Web Design Certification" in order to build my personal art website.
+
+### Plan
+- Complete "Responsive Web Design Certification"
+- Complete "JavaScript Certification"
+- Design website
+- Publish website
